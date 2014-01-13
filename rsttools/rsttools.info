@@ -1,0 +1,5 @@
+name = Rayogram Stress Test Tools 
+description = Node manipulation toolkit for stress testing.
+package = Development
+core = 7.x
+tags[] = developer
